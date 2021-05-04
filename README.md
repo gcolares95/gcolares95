@@ -1,16 +1,13 @@
-### Hi there 👋
+Hello how are you?
+Welcome to my profile, I hope you like it
 
-<!--
-**gcolares95/gcolares95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About me:
+- My name is Guilherme
+- I’m from Brazil
+- I’m currently in the 1° period of computer engineering
+- I also study front-end development with technologies: JavaScript, HTML5, CSS
+- I have a brief basic knowledge of programming languages: C and Python.
+Also in code versioning: Git / GitHub
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+"You are the size of your dream" ~ Evandro Guedes
