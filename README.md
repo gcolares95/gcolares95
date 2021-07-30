@@ -19,7 +19,8 @@
    <img align="center" alt="guilherme-nodejs" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
    <img align="center" alt="guilherme-react" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
    <img align="center" alt="guilherme-python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
-	
+   <img align="right" alt="Rafa-yoda" height="200" width="300" src="https://64.media.tumblr.com/a8a17c989a9ef0fb1c689adb569b9564/d53c93fa07188bc5-4f/s640x960/9e91121675c2800e613649bb5b955c94d0bb1ec3.gifv">
+</div>
 	
 	
 	
