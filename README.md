@@ -23,12 +23,13 @@
    <img display="center" alt="Rafa-yoda" height="200" width="300" src="https://64.media.tumblr.com/a8a17c989a9ef0fb1c689adb569b9564/d53c93fa07188bc5-4f/s640x960/9e91121675c2800e613649bb5b955c94d0bb1ec3.gifv">
 </div>
 	
+<br>
+
 <!-- 	Redes sociais e cobrinha -->
 <div> 
-  <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gcolares95/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.instagram.com/gcolares95/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
  
-</a> 
  
 <!-- ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg) -->
 </div>
