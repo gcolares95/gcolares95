@@ -1,8 +1,9 @@
 # Olá! Eu sou o Gulherme Colares 
 
-- 🔥 Estudando tecnologias Front-End
-- 👨🏻‍💻 Estudando JS
-- 🐲 18 anos
+- 🔥 Web Developer
+- 👨🏻‍💻 Currently studying HTML, CSS and mainly JavaScript
+- 📕 I have interest in learning in the future React, Angular, Node and Python.
+- 🐲 18 years
 
 <!-- GitHub Stats -->
 <div>
