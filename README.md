@@ -1,4 +1,4 @@
-# Olá! Eu sou o Gulherme Colares 
+# 💀 Welcome to my profile 💀
 
 - 🔥 Web Developer
 - 👨🏻‍💻 Currently studying HTML, CSS and mainly JavaScript
