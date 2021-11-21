@@ -2,7 +2,7 @@
 
 - 🔥 Web Developer
 - 👨🏻‍💻 Currently studying HTML, CSS and mainly JavaScript
-- 📕 I have interest in learning in the future React, Angular, Node and Python.
+- 📕 I have interest in learning in the future React, Angular, Node and Java.
 - 🐲 18 years
 
 <!-- GitHub Stats -->
