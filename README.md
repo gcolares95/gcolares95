@@ -1,8 +1,7 @@
 # 💀 Welcome to my profile 💀
 
-- 🔥 Web Developer
-- 👨🏻‍💻 Currently studying HTML, CSS and mainly JavaScript
-- 📕 I have interest in learning in the future React, Angular, Node and Java.
+- 👨🏻‍💻 Web Developer
+- 🔥 ReactJS & NodeJS
 - 🐲 18 years
 
 <!-- GitHub Stats -->
@@ -17,7 +16,7 @@
    <img align="center" alt="guilherme-html5" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
    <img align="center" alt="guilherme-css3" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
    <img align="center" alt="guilherme-js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
-   <!-- <img align="center" alt="guilherme-react" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"> -->
+   <img align="center" alt="guilherme-react" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
    <br><br>
    <img display="center" alt="Rafa-yoda" height="200" width="300" src="https://64.media.tumblr.com/a8a17c989a9ef0fb1c689adb569b9564/d53c93fa07188bc5-4f/s640x960/9e91121675c2800e613649bb5b955c94d0bb1ec3.gifv">
 </div>
