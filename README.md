@@ -2,7 +2,7 @@
 
 - 👨🏻‍💻 Web Developer
 - 🔥 ReactJS & NodeJS
-- 🐲 18 years
+- 🐲 19 years
 
 <!-- GitHub Stats -->
 <div>
