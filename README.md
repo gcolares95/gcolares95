@@ -1,8 +1,18 @@
 # 💀 Welcome to my profile 💀
 
-- 👨🏻‍💻 Web Developer
-- 🔥 ReactJS & NodeJS
-- 🐲 19 years
+Guilherme, 19 anos 
+
+🐲 Admirador da tecnologia e por desenvolvimento Web, em busca de conhecimento diariamente. 
+ - Engenharia da Computação - Fundação Centro de Análise, Pesquisa e Inovação Tecnológica (4° Período) 
+ - Inglês Intermediário
+
+Skills 👩‍💻: 
+ - Javascript e TypeScript
+ - ReactJS, NextJS, Chakra UI, Tailwind CSS e Styled-components (Front-end)
+ - NodeJS, Express, Sequelize e Prisma (Back-end)
+ - MySQL, SQL Server, FaunaDB (Banco de Dados)
+ - Figma e Adobe XD 
+ - Desenvolvimento de Processos Fluig utilizando HTML, CSS, Javascript , Jquery e Bootstrap
 
 <!-- GitHub Stats -->
 <div>
@@ -13,13 +23,18 @@
 
 <!-- Icones de linguagens de programação -->
 <div style="display: inline_block"><br>
-   <img align="center" alt="guilherme-html5" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
-   <img align="center" alt="guilherme-css3" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
-   <img align="center" alt="guilherme-js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
-   <img align="center" alt="guilherme-react" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
+   <img align="center" alt="html5-icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
+   <img align="center" alt="css3-icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
+   <img align="center" alt="js-icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
+   <img align="center" alt="jquery-icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg">
+   <img align="center" alt="react-icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
+   <img align="center" alt="nextjs-icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg">
+   <img align="center" alt="node-icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
+   <img align="center" alt="mysql-icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
+	
    <br><br>
    <img display="center" alt="Rafa-yoda" height="200" width="300" src="https://64.media.tumblr.com/a8a17c989a9ef0fb1c689adb569b9564/d53c93fa07188bc5-4f/s640x960/9e91121675c2800e613649bb5b955c94d0bb1ec3.gifv">
-   <img display="center" alt="moon-knight" height="200" width="300" src="https://64.media.tumblr.com/14553dd43e496169c48eddd2ca5105f7/63707d3cdd9deaf8-fe/s540x810/466731dbeffeee84813745f9fffcc5dc0b96dcd3.gifv">
+   <img display="center" alt="moon-knight" height="200" width="300" src="https://giffiles.alphacoders.com/215/215871.gif">
 	
 </div>
 	
