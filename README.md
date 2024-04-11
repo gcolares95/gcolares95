@@ -1,19 +1,5 @@
 # 💀 Welcome to my profile 💀
 
-Guilherme, 19 anos 
-
-🐲 Admirador da tecnologia e por desenvolvimento Web, em busca de conhecimento diariamente. 
- - Engenharia da Computação - Fundação Centro de Análise, Pesquisa e Inovação Tecnológica (4° Período) 
- - Inglês Intermediário
-
-Skills 👩‍💻: 
- - Javascript e TypeScript
- - ReactJS, NextJS, Chakra UI, Tailwind CSS e Styled-components (Front-end)
- - NodeJS, Express, Sequelize e Prisma (Back-end)
- - MySQL, SQL Server, FaunaDB (Banco de Dados)
- - Figma e Adobe XD 
- - Desenvolvimento de Processos Fluig utilizando HTML, CSS, Javascript , Jquery e Bootstrap
-
 <!-- GitHub Stats -->
 <div>
   <a href="https://github.com/gcolares95">
